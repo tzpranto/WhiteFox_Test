@@ -1,4 +1,4 @@
-Open in VSCode Web `https://vscode.dev/github/tzpranto/DL_Compiler_Fuzzer`
+[Open in VSCode Web] (https://vscode.dev/github/tzpranto/DL_Compiler_Fuzzer)
 # Deep Learning Compiler Fuzzing
 
 ## Group Members
